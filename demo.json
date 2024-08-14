@@ -1,0 +1,200 @@
+[
+  {
+    "machine_id": 7,
+    "status": "trabalhar",
+    "order": "OF 6234.24",
+    "operator": "Ricardo",
+    "rpm": 22,
+    "oee": 85,
+    "priority": false
+  },
+  {
+    "machine_id": 12,
+    "status": "trabalhar",
+    "order": "OF 6234.24",
+    "operator": "Ricardo",
+    "rpm": 22,
+    "oee": 85,
+    "priority": false
+  },
+  {
+    "machine_id": 35,
+    "status": "parada",
+    "order": "OF 6234.24",
+    "operator": "Ricardo",
+    "rpm": 22,
+    "oee": 85,
+    "priority": true
+  },
+  {
+    "machine_id": 36,
+    "status": "trabalhar",
+    "order": "OF 6234.24",
+    "operator": "Ricardo",
+    "rpm": 22,
+    "oee": 85,
+    "priority": false
+  },
+  {
+    "machine_id": 24,
+    "status": "desligada",
+    "order": null,
+    "operator": null,
+    "rpm": null,
+    "oee": null,
+    "priority": false
+  },
+  {
+    "machine_id": 42,
+    "status": "trabalhar",
+    "order": "OF 6234.24",
+    "operator": "Ricardo",
+    "rpm": 22,
+    "oee": 85,
+    "priority": false
+  },
+  {
+    "machine_id": 43,
+    "status": "trabalhar",
+    "order": "OF 6234.24",
+    "operator": "Ricardo",
+    "rpm": 22,
+    "oee": 85,
+    "priority": false
+  },
+  {
+    "machine_id": 32,
+    "status": "setup",
+    "order": "OF 6234.24",
+    "operator": "Ricardo",
+    "rpm": null,
+    "oee": null,
+    "priority": true
+  },
+  {
+    "machine_id": 1,
+    "status": "trabalhar",
+    "order": "OF 6234.24",
+    "operator": "Ricardo",
+    "rpm": 22,
+    "oee": 85,
+    "priority": false
+  },
+  {
+    "machine_id": 45,
+    "status": "trabalhar",
+    "order": "OF 6234.24",
+    "operator": "Ricardo",
+    "rpm": 22,
+    "oee": 85,
+    "priority": false
+  },
+  {
+    "machine_id": 14,
+    "status": "trabalhar",
+    "order": "OF 6234.24",
+    "operator": "Ricardo",
+    "rpm": 22,
+    "oee": 85,
+    "priority": true
+  },
+  {
+    "machine_id": 6,
+    "status": "parada",
+    "order": "OF 6234.24",
+    "operator": "Ricardo",
+    "rpm": 22,
+    "oee": 85,
+    "priority": true
+  },
+  {
+    "machine_id": 40,
+    "status": "trabalhar",
+    "order": "OF 6234.24",
+    "operator": "Ricardo",
+    "rpm": 22,
+    "oee": 85,
+    "priority": false
+  },
+  {
+    "machine_id": 18,
+    "status": "setup",
+    "order": "OF 6234.24",
+    "operator": "Ricardo",
+    "rpm": null,
+    "oee": null,
+    "priority": false
+  },
+  {
+    "machine_id": 44,
+    "status": "trabalhar",
+    "order": "OF 6234.24",
+    "operator": "Ricardo",
+    "rpm": 22,
+    "oee": 85,
+    "priority": false
+  },
+  {
+    "machine_id": 4,
+    "status": "trabalhar",
+    "order": "OF 6234.24",
+    "operator": "Ricardo",
+    "rpm": 22,
+    "oee": 85,
+    "priority": false
+  },
+  {
+    "machine_id": 23,
+    "status": "desligada",
+    "order": null,
+    "operator": null,
+    "rpm": null,
+    "oee": null,
+    "priority": false
+  },
+  {
+    "machine_id": 5,
+    "status": "trabalhar",
+    "order": "OF 6234.24",
+    "operator": "Ricardo",
+    "rpm": 22,
+    "oee": 85,
+    "priority": false
+  },
+  {
+    "machine_id": 29,
+    "status": "trabalhar",
+    "order": "OF 6234.24",
+    "operator": "Ricardo",
+    "rpm": 22,
+    "oee": 85,
+    "priority": false
+  },
+  {
+    "machine_id": 41,
+    "status": "trabalhar",
+    "order": "OF 6234.24",
+    "operator": "Ricardo",
+    "rpm": 22,
+    "oee": 85,
+    "priority": true
+  },
+  {
+    "machine_id": 39,
+    "status": "trabalhar",
+    "order": "OF 6234.24",
+    "operator": "Ricardo",
+    "rpm": 22,
+    "oee": 85,
+    "priority": false
+  },
+  {
+    "machine_id": 33,
+    "status": "trabalhar",
+    "order": "OF 6234.24",
+    "operator": "Ricardo",
+    "rpm": 22,
+    "oee": 85,
+    "priority": false
+  }
+]
